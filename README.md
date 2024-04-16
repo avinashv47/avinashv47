@@ -15,8 +15,6 @@ I'm a front-end developer passionate about building user-friendly and interactiv
 ### My Work:
  -[Portfolio app with Reactjs](https://avinashv47.github.io/portfolio/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avinashv47&icon=0&color=0)](https://visitcount.itsvg.in)
