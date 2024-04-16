@@ -12,9 +12,6 @@ I'm a front-end developer passionate about building user-friendly and interactiv
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avinashv47&theme=ayu-mirage&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashv47&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### My Work:
- -[Portfolio app with Reactjs](https://avinashv47.github.io/portfolio/)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avinashv47&icon=0&color=0)](https://visitcount.itsvg.in)
