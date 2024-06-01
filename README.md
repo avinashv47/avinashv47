@@ -14,6 +14,7 @@ I'm a front-end developer passionate about building user-friendly and interactiv
 
 ## Something you can interact
 [Portfolio Project](https://github.com/avinashv47/portfolio.git)<br/>
+[React Todos](https://avinashv47.github.io/react-todos/)<br/>
 [Javascript mini projects](https://github.com/avinashv47/javascript-mini-projects.git)
 
 
