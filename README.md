@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a front-end developer with a passion for crafting user-friendly, interactive web experiences that not only look great but perform seamlessly across devices. With a strong foundation in core web technologies — HTML, CSS, and JavaScript — I specialize in translating ideas into clean, responsive, and accessible interfaces. Whether it's building from scratch or optimizing existing apps, I bring a user-first mindset and a drive to continuously elevate the web experience.
+I'm a front-end developer with a passion for crafting user-friendly, interactive web experiences that not only look great but perform seamlessly across devices. With a strong foundation in core web technologies. I specialize in translating ideas into clean, responsive, and accessible interfaces. Whether it's building from scratch or optimizing existing apps, I bring a user-first mindset and a drive to continuously elevate the web experience.
 
 
 ## 🌐 Socials:
